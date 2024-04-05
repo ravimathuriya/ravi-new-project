@@ -1,1 +1,1 @@
-console.log("new git project")
+console.log("hello")
